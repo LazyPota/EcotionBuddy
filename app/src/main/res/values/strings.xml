@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EcotionBuddy</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_ask_ai">Ask AI</string>
+    <string name="title_history">Riwayat</string>
+    <string name="title_account">Akun</string>
+    <string name="toggle_flash_description">Nyalakan atau Matikan Flash</string>
+    <string name="placeholder_chart_description">Placeholder untuk grafik statistik</string>
+</resources>
