@@ -1,11 +1,48 @@
 <resources>
     <string name="app_name">EcotionBuddy</string>
     <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
     <string name="title_ask_ai">Ask AI</string>
     <string name="title_history">Riwayat</string>
     <string name="title_account">Akun</string>
     <string name="toggle_flash_description">Nyalakan atau Matikan Flash</string>
     <string name="placeholder_chart_description">Placeholder untuk grafik statistik</string>
+    
+    <!-- Mission related -->
+    <string name="mission_collect_plastic">Kumpulkan Sampah Plastik</string>
+    <string name="mission_scan_waste">Pindai Sampah</string>
+    <string name="mission_recycle_items">Daur Ulang Barang</string>
+    
+    <!-- Points and levels -->
+    <string name="points_format">%,d Poin</string>
+    <string name="level_format">Level %d</string>
+    
+    <!-- Waste categories -->
+    <string name="category_plastic">Plastik</string>
+    <string name="category_organic">Organik</string>
+    <string name="category_paper">Kertas</string>
+    <string name="category_metal">Logam</string>
+    <string name="category_glass">Kaca</string>
+    <string name="category_electronic">Elektronik</string>
+    <string name="category_textile">Tekstil</string>
+    
+    <!-- Common actions -->
+    <string name="action_scan">Pindai</string>
+    <string name="action_start_mission">Mulai Misi</string>
+    <string name="action_view_details">Lihat Detail</string>
+    <string name="action_share">Bagikan</string>
+    <string name="action_save">Simpan</string>
+    <string name="action_cancel">Batal</string>
+    <string name="action_continue">Lanjutkan</string>
+    
+    <!-- Messages -->
+    <string name="message_scan_success">Pemindaian berhasil!</string>
+    <string name="message_mission_completed">Misi selesai! Anda mendapat %d poin</string>
+    <string name="message_level_up">Selamat! Anda naik ke level %d</string>
+    <string name="message_camera_permission_required">Izin kamera diperlukan untuk memindai sampah</string>
+    
+    <!-- Errors -->
+    <string name="error_camera_failed">Gagal memulai kamera</string>
+    <string name="error_image_capture_failed">Gagal mengambil foto</string>
+    <string name="error_network">Tidak ada koneksi internet</string>
+    <string name="error_general">Terjadi kesalahan. Silakan coba lagi</string>
 </resources>
